@@ -18,11 +18,14 @@ Cписок сервисов имеющих бесплатные услуги п
 ## Мониторинг
   * [selectel.ru](https://selectel.ru/services/monitoring/) - Проверка доступности сервисов. Множество типов проверок, простое управление, статистика, оповещении по SMS. Бесплатно 3 проверки.
   * [ping-admin.ru](https://ping-admin.ru/free_test/) - Различные проверки доступности. Множество настраиваемых типов оповещения например: SMS, ICQ, Jabber, WhatsApp, Skype, Telegram.
+  * [webopulsar.ru](https://webopulsar.ru/) - Различные проверки, оповещение, бесплатно 1 проверка
 
 ## ДНС
   * [pdd.yandex.ru](https://pdd.yandex.ru/domains_add/) - Бесплатный DNS-хостинг от Яндекса. Ограничений по количеству записей и доменов не обнаружено.
   * [biz.mail.ru](https://biz.mail.ru/) - Бесплатный DNS-хостинг от Mail.ru
   * [zilore.com](https://zilore.com/ru) - Геораспределенный Anycast DNS-хостинг
+  * [cloudns.ru	](https://cloudns.ru/) - Бесплатно 10 доменов
+  * [netbreeze.net/dns](http://netbreeze.net/dns) - Бесплатно 1 домен, есть API
 
 ## Аналитика
   * [postoffice.yandex.ru](https://postoffice.yandex.ru/) - Сервис для аналитики почтовых рассылок
@@ -35,3 +38,4 @@ Cписок сервисов имеющих бесплатные услуги п
   * [rubyschool.us](http://rubyschool.us/) - Видео-курс по языку Ruby и платформе Rails на 100 часов, на русском языке.
   * [ruhighload.com](http://ruhighload.com/) - База знаний по оптимизация и масштабированию Web приложений
   * [wiki.val.bmstu.ru](http://wiki.val.bmstu.ru) - Использование свободного, открытого ПО и интеграции его с коммерческими системами
+  * [ru.hexlet.io](https://ru.hexlet.io/courses) - Практические курсы по программированию, есть бесплатные темы или вводные занятия
