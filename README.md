@@ -9,7 +9,9 @@ Cписок сервисов имеющих бесплатные услуги п
 =================
 
    * [Мониторинг](#Мониториг)
-   * [DNS](#DNS)
+   * [ДНС](#ДНС)
+   * [Аналитика](#Аналитика)
+   * [Другое](#Другое)
    * [Обучение](#Обучение)
 
 
@@ -17,9 +19,17 @@ Cписок сервисов имеющих бесплатные услуги п
   * [selectel.ru](https://selectel.ru/services/monitoring/) - Проверка доступности сервисов. Множество типов проверок, простое управление, статистика, оповещении по SMS. Бесплатно 3 проверки.
   * [ping-admin.ru](https://ping-admin.ru/free_test/) - Различные проверки доступности. Множество настраиваемых типов оповещения например: SMS, ICQ, Jabber, WhatsApp, Skype, Telegram.
 
-## DNS
+## ДНС
   * [pdd.yandex.ru](https://pdd.yandex.ru/domains_add/) - Бесплатный DNS-хостинг от Яндекса. Ограничений по количеству записей и доменов не обнаружено.
   * [biz.mail.ru](https://biz.mail.ru/) - Бесплатный DNS-хостинг от Mail.ru
+  * [zilore.com](https://zilore.com/ru) - Геораспределенный Anycast DNS-хостинг
+
+## Аналитика
+  * [postoffice.yandex.ru](https://postoffice.yandex.ru/) - Сервис для аналитики почтовых рассылок
+  * [serpstat.com](https://serpstat.com/ru/) - Аналитика поисковой выдачи
+
+## Другое
+  * [sms.ru](http://sms.ru/?panel=main&subpanel=programmer) - Бесплатная отправка SMS на собственный номер, есть API. Можно использовать для мониторинга.
 
 ## Обучение
-  * [rubyschool.us](http://rubyschool.us/) - Видео-курс по языку Ruby и платформе Rails на 100 часов, на русском языке. 
+  * [rubyschool.us](http://rubyschool.us/) - Видео-курс по языку Ruby и платформе Rails на 100 часов, на русском языке.
