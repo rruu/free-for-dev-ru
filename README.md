@@ -39,3 +39,6 @@ Cписок сервисов имеющих бесплатные услуги п
   * [ruhighload.com](http://ruhighload.com/) - База знаний по оптимизация и масштабированию Web приложений
   * [wiki.val.bmstu.ru](http://wiki.val.bmstu.ru) - Использование свободного, открытого ПО и интеграции его с коммерческими системами
   * [ru.hexlet.io](https://ru.hexlet.io/courses) - Практические курсы по программированию, есть бесплатные темы или вводные занятия
+  * [learn.javascript.ru](http://learn.javascript.ru/) - Современный учебник JavaScript
+  * [nodeguide.ru](http://nodeguide.ru/doc/) - Руководства по Node.js
+  * [ssd.eff.org](https://ssd.eff.org/ru) - Самозащита от слежки: Советы, инструменты и руководства по обеспечению безопасности онлайновых коммуникаций
