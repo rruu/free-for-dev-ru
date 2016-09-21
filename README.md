@@ -42,3 +42,6 @@ Cписок сервисов имеющих бесплатные услуги п
   * [learn.javascript.ru](http://learn.javascript.ru/) - Современный учебник JavaScript
   * [nodeguide.ru](http://nodeguide.ru/doc/) - Руководства по Node.js
   * [ssd.eff.org](https://ssd.eff.org/ru) - Самозащита от слежки: Советы, инструменты и руководства по обеспечению безопасности онлайновых коммуникаций
+
+## Хостинг
+  * [beget.com](https://beget.com/ru/free-hosting) - Бесплатная хостинг без рекламы (1Гб, mysql,ftp).
