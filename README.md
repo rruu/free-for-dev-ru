@@ -21,6 +21,7 @@ Cписок сервисов имеющих бесплатные услуги п
   * [webopulsar.ru](https://webopulsar.ru/) - Различные проверки, оповещение, бесплатно 1 проверка
 
 ## ДНС
+  * [selectel.ru](https://selectel.ru/services/additional/dns/) - Бесплатный DNS-хостинг от Селектел
   * [pdd.yandex.ru](https://pdd.yandex.ru/domains_add/) - Бесплатный DNS-хостинг от Яндекса. Ограничений по количеству записей и доменов не обнаружено.
   * [biz.mail.ru](https://biz.mail.ru/) - Бесплатный DNS-хостинг от Mail.ru
   * [zilore.com](https://zilore.com/ru) - Геораспределенный Anycast DNS-хостинг
